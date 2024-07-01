@@ -1,0 +1,62 @@
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+32 23 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 4 4 
+Frame 3
+8 9 5 3 
+Frame 4
+11 12 19 9 7 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 6 2 
+Frame 3
+13 8 7 6 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+11 18 2 
+Frame 3
+14 17 17 14 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 4 2 
+Frame 3
+11 6 8 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+6 3 3 
+Time of model construct: 0.19
+Num of total SAT Calls: 1365
+      Num of main solver SAT Calls: 1309
+      Num of inv solver SAT Calls: 33
+      Num of start solver SAT Calls: 23
+Time of total SAT Calls: 51.05
+      Time of main solver SAT Calls: 50.54
+      Time of inv solver SAT Calls: 0.41
+      Time of start solver SAT Calls: 0.1
+Num of clause contain: 554
+Time of clause contain: 0
+Num of clause contain success: 188
+Clause contain successful rate: 0.33935
+Num of state contain: 1981
+Time of state contain: 0.23
+Total Time: 54.73

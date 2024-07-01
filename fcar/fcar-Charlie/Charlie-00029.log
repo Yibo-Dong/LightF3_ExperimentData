@@ -1,0 +1,190 @@
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Frame 0
+31906 
+Time of model construct: 0.16
+Num of total SAT Calls: 174
+      Num of main solver SAT Calls: 87
+      Num of inv solver SAT Calls: 0
+      Num of start solver SAT Calls: 87
+Time of total SAT Calls: 4.88
+      Time of main solver SAT Calls: 4.61
+      Time of inv solver SAT Calls: 0
+      Time of start solver SAT Calls: 0.27
+Num of clause contain: 0
+Time of clause contain: 0
+Num of clause contain success: 0
+Clause contain successful rate: -nan
+Num of state contain: 0
+Time of state contain: 0
+Total Time: 72.69

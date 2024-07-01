@@ -1,0 +1,210 @@
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+14 5 3 
+Frame 3
+26 8 12 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+38 27 3 
+Frame 3
+43 30 9 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+20 3 2 
+Frame 3
+36 6 12 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+24 5 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+16 7 2 
+Frame 3
+21 14 17 7 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+13 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+23 5 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+36 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+13 3 2 
+Frame 3
+22 7 12 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+41 3 2 
+Frame 3
+77 6 13 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+13 6 2 
+Frame 3
+32 15 16 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+9 6 2 
+Frame 3
+27 13 8 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+14 3 2 
+Frame 3
+25 9 8 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 3 2 
+Frame 3
+30 9 14 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 3 2 
+Frame 3
+36 6 7 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 4 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+7 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+6 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+7 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+25 6 3 
+Frame 0
+1 
+Frame 1
+36 2 
+Frame 2
+43 6 2 
+Frame 3
+43 8 6 3 
+Frame 4
+43 10 12 6 7 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+12 4 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+14 4 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+9 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+13 3 2 
+Frame 3
+19 6 11 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 3 2 
+Time of model construct: 0.19
+Num of total SAT Calls: 6907
+      Num of main solver SAT Calls: 6687
+      Num of inv solver SAT Calls: 123
+      Num of start solver SAT Calls: 97
+Time of total SAT Calls: 256.26
+      Time of main solver SAT Calls: 254.35
+      Time of inv solver SAT Calls: 1.45
+      Time of start solver SAT Calls: 0.46
+Num of clause contain: 2704
+Time of clause contain: 0.04
+Num of clause contain success: 1043
+Clause contain successful rate: 0.385725
+Num of state contain: 9156
+Time of state contain: 1.69
+Total Time: 272.48

@@ -1,0 +1,142 @@
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+10 3 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+11 6 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 5 4 
+Frame 3
+3 5 4 3 
+Frame 4
+9 6 10 7 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+2 6 5 
+Frame 3
+2 6 5 4 
+Frame 4
+8 6 8 8 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+7 6 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+2 5 4 
+Frame 3
+2 5 4 3 
+Frame 4
+8 6 7 7 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+6 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+2 5 5 
+Frame 3
+2 5 5 4 
+Frame 4
+7 7 9 8 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+7 5 3 
+Time of model construct: 0.15
+Num of total SAT Calls: 1574
+      Num of main solver SAT Calls: 1450
+      Num of inv solver SAT Calls: 61
+      Num of start solver SAT Calls: 63
+Time of total SAT Calls: 56.38
+      Time of main solver SAT Calls: 55.39
+      Time of inv solver SAT Calls: 0.68
+      Time of start solver SAT Calls: 0.31
+Num of clause contain: 618
+Time of clause contain: 0
+Num of clause contain success: 168
+Clause contain successful rate: 0.271845
+Num of state contain: 1760
+Time of state contain: 0.12
+Total Time: 64.5

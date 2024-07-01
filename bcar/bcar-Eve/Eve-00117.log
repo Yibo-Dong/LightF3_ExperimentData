@@ -1,0 +1,252 @@
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 6 3 
+Frame 3
+3 8 6 3 
+Frame 4
+5 11 13 6 4 
+Frame 5
+10 4 16 7 6 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+5 7 6 
+Frame 3
+5 7 6 4 
+Frame 4
+5 7 6 4 3 
+Frame 5
+9 5 9 7 5 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 9 5 
+Frame 3
+3 9 5 4 
+Frame 4
+4 10 7 5 4 
+Frame 5
+8 4 9 7 5 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 4 5 
+Frame 3
+4 9 7 4 
+Frame 4
+7 4 10 7 7 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 11 5 
+Frame 3
+3 11 10 7 
+Frame 4
+6 14 14 9 6 
+Frame 5
+10 5 17 11 8 6 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 4 5 
+Frame 3
+5 9 7 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+3 10 3 
+Frame 3
+3 13 9 7 
+Frame 4
+6 14 12 12 8 
+Frame 5
+10 4 15 11 12 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+4 6 6 
+Frame 3
+4 6 6 4 
+Frame 4
+4 6 6 4 3 
+Frame 5
+7 5 8 7 5 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+2 7 7 5 
+Frame 4
+4 9 8 6 3 
+Frame 5
+7 5 11 10 7 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+2 7 5 4 
+Frame 4
+8 4 9 7 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+7 4 3 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+11 6 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+6 4 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+5 6 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+9 6 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+9 5 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 4 2 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+11 5 3 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+8 7 3 
+Frame 3
+12 8 9 3 
+Frame 4
+12 11 7 8 5 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+12 9 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+12 8 3 
+Frame 3
+13 11 6 3 
+Frame 4
+13 12 11 6 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+3 6 7 5 
+Frame 4
+5 9 9 7 3 
+Frame 5
+6 5 11 10 6 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+2 6 7 5 
+Frame 4
+2 6 7 5 3 
+Frame 5
+7 5 9 9 6 4 
+Frame 0
+1 
+Frame 1
+1 1 
+Frame 2
+1 1 1 
+Frame 3
+5 3 3 3 
+Time of model construct: 0.14
+Num of total SAT Calls: 3887
+      Num of main solver SAT Calls: 3574
+      Num of inv solver SAT Calls: 195
+      Num of start solver SAT Calls: 118
+Time of total SAT Calls: 127.23
+      Time of main solver SAT Calls: 124.52
+      Time of inv solver SAT Calls: 2.28
+      Time of start solver SAT Calls: 0.43
+Num of clause contain: 1369
+Time of clause contain: 0
+Num of clause contain success: 436
+Clause contain successful rate: 0.318481
+Num of state contain: 4177
+Time of state contain: 0.41
+Total Time: 138.52

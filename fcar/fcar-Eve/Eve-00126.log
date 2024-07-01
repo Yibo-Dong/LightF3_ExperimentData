@@ -1,0 +1,216 @@
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Frame 0
+30564 
+Time of model construct: 0.19
+Num of total SAT Calls: 200
+      Num of main solver SAT Calls: 100
+      Num of inv solver SAT Calls: 0
+      Num of start solver SAT Calls: 100
+Time of total SAT Calls: 3.23
+      Time of main solver SAT Calls: 2.2
+      Time of inv solver SAT Calls: 0
+      Time of start solver SAT Calls: 1.03
+Num of clause contain: 0
+Time of clause contain: 0
+Num of clause contain success: 0
+Clause contain successful rate: -nan
+Num of state contain: 0
+Time of state contain: 0
+Total Time: 82.9
